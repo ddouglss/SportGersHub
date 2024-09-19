@@ -44,9 +44,9 @@
 <hr>
 
 <h2 id="demonstração">Demonstração</h2>
-<p>
-  Veja uma prévia do site <a href="https://www.figma.com/proto/IpjimX9AoJLBJgv9SSYkwj/SPORTS-GEAR-HUB?node-id=1-2" target="_blank">aqui</a>.
-  
+<p align="center">
+   <img scr="https://github.com/user-attachments/assets/90538a91-9b92-4ea0-a4db-cd7c65fe0b7e" alt="Demonstração do CVV App" />![img1](https://github.com/user-attachments/assets/2e969b18-7471-4e9a-ae0e-3ac59b712911)
+
 </p>
 
 <hr>
