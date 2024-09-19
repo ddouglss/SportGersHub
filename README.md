@@ -46,6 +46,7 @@
 <h2 id="demonstração">Demonstração</h2>
 <p>
   Veja uma prévia do site <a href="https://www.figma.com/proto/IpjimX9AoJLBJgv9SSYkwj/SPORTS-GEAR-HUB?node-id=1-2" target="_blank">aqui</a>.
+  
 </p>
 
 <hr>
