@@ -45,9 +45,13 @@
 
 <h2 id="demonstração">Demonstração</h2>
 <p align="center">
-   <img scr= ![img1](https://github.com/user-attachments/assets/2e969b18-7471-4e9a-ae0e-3ac59b712911) alt="Demonstração do CVV App" />
-
+  <img src="https://github.com/user-attachments/assets/4733051b-e69f-436b-9cf4-b6372fc0591b" alt="" width="150" />
+  <img src="https://github.com/user-attachments/assets/a9f95b03-7f24-4587-941d-6695a223141f" alt="" width="150" />
+  <img src="https://github.com/user-attachments/assets/dfecf0b9-7544-4b52-a994-32282c681417" alt="" width="150" />
+  <img src="https://github.com/user-attachments/assets/64a71493-3307-4b84-8f81-1c8688e48154" alt="" width="150" />
+  <img src="https://github.com/user-attachments/assets/87bdfb45-b332-4453-b0d1-e6bd71f51084" alt="" width="150" />
 </p>
+
 
 <hr>
 
