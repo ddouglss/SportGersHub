@@ -45,7 +45,7 @@
 
 <h2 id="demonstração">Demonstração</h2>
 <p align="center">
-   <img scr="https://github.com/user-attachments/assets/90538a91-9b92-4ea0-a4db-cd7c65fe0b7e" alt="Demonstração do CVV App" />![img1](https://github.com/user-attachments/assets/2e969b18-7471-4e9a-ae0e-3ac59b712911)
+   <img scr= ![img1](https://github.com/user-attachments/assets/2e969b18-7471-4e9a-ae0e-3ac59b712911) alt="Demonstração do CVV App" />
 
 </p>
 
